@@ -7,10 +7,14 @@ Desenvolvimento Back-End na Universidade Cruzeiro do Sul, onde estou aprimorando
 🔨 Minhas habilidades incluem:
 
 Linguagens: Java, Python, JavaScript
+
 Desenvolvimento Back-End: Node.js, Express.js, REST APIs
 Banco de Dados: SQL.
+
 Versionamento de Código: Git.
+
 Ferramentas de Desenvolvimento: Visual Studio Code.
+
 🌟 Meu objetivo é me tornar um profissional Full-Stack, combinando minhas habilidades em Back-End com o desenvolvimento Front-End. Estou constantemente aprendendo e 
 buscando novos desafios para aprimorar minhas habilidades e conhecimentos.
 
